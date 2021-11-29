@@ -3,7 +3,7 @@
 
 Hi, I am SANZONGi, a student who want to be great contributer
 
-<h1 align="center">
+<h3 align="center">
 ✨ Where you can find me ✨
 <p align="center">
   <br/>
@@ -12,4 +12,4 @@ Hi, I am SANZONGi, a student who want to be great contributer
   </a>
   
 </p>
-</h1>
+</h3>
